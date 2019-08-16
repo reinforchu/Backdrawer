@@ -1,3 +1,2 @@
-# NatureHome
-HomeNet
- node svr.js
+# HomeBridge
+reinforchu$ node svr.js
